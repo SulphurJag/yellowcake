@@ -1,11 +1,13 @@
 ---
 template: HomePage
 slug: ''
-title: 'We probably won''t waste your time or money '
-featuredImage: 'https://ucarecdn.com/27390927-afcf-4cc7-a346-d7e04bd51a98/'
+title: >-
+  Sulphur Jag is a lot like Jazz. Essential but not for everyone. And it's
+  alright.
+featuredImage: 'https://ucarecdn.com/69321e77-d368-4287-a3fe-5b1d7b40f202/'
 subtitle: ''
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: ''
+  title: ''
 ---
 #
