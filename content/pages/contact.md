@@ -7,7 +7,10 @@ subtitle: We are always  to pull all-nighters for your brand.
 address: 'Dhaka, Bangladesh '
 phone: 01819280579
 email: sulphurjag@gmail.com
-locations: []
+locations:
+  - lat: M
+    lng: L
+    mapLink: 'N'
 meta:
   description: This is a meta description.
   title: Contact Page
