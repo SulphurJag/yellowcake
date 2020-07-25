@@ -10,4 +10,4 @@ meta:
   description: ''
   title: ''
 ---
-We  a creative consultancy firm you never asked for. But they say necessity is the mother of invention.
+We are a creative consultancy firm you never asked for. But they say necessity is the mother of invention.
