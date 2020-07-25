@@ -1,27 +1,17 @@
 ---
 template: ContactPage
 slug: contact
-title: Let's get crackin'
+title: Let's Crack This!
 featuredImage: 'https://ucarecdn.com/8bde25cf-5efb-4a4e-8a31-365cf5ed5124/'
-subtitle: '##'
-address: '404 James St, Burleigh Heads QLD 4220'
-phone: 0987 123 456
-email: example@example.com
-locations:
-  - lat: '-27.9654732'
-    lng: '153.2432449'
-    mapLink: ''
+subtitle: We are ready to pull all nighters for your brand. Let's talk!
+address: 'Dhaka, Bangladesh '
+phone: 01819280579
+email: sulphurjag@gmail.com
+locations: []
 meta:
   description: This is a meta description.
   title: Contact Page
 ---
+# We're all about ideas and collaborations
 
-# Example contact form
-
-This form is setup to use Netlify's form handling:
-
-- the form action is set to the current absolute url: `action: '/contact/'`
-- a name attribute is sent with the form's data `'form-name': 'Contact'`
-- netlify data attributes are added to the form `data-netlify data-netlify-honeypot`
-
-Find out more in the [Netlify Docs](https://www.netlify.com/docs/form-handling/).
+ Feel free to contact us. Let's craft brand together!
